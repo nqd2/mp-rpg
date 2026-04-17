@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "godot-asset-generator": {
+      "source": "jwynia/agent-skills",
+      "sourceType": "github",
+      "computedHash": "0b07b3ad870b6413ff2749c22281b09d7e5187c9ea57d9d3090a0bc4b9f69a6d"
+    },
+    "godot-best-practices": {
+      "source": "jwynia/agent-skills",
+      "sourceType": "github",
+      "computedHash": "1137c05247cfcc6547064f99c6eeddcdb0e18fab9d76b2c40d8d4cf12b6c6025"
+    },
+    "godot-development": {
+      "source": "zate/cc-godot",
+      "sourceType": "github",
+      "computedHash": "3f647f022010f95c36b9e3a244aa38af45a37586c49beb9cddbe51de6bbbb211"
+    },
+    "godot-gdscript-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "5aae14bd9f5a5e16cfed5d692ed9b6ddd3848a0569d29ae86a623d09af997bfe"
+    },
+    "godot-optimization": {
+      "source": "zate/cc-godot",
+      "sourceType": "github",
+      "computedHash": "53447fe537f8bba9efee7a0495c54603fa572058c2df7b533f9125e487c6871b"
+    },
+    "godot-ui": {
+      "source": "zate/cc-godot",
+      "sourceType": "github",
+      "computedHash": "6dacfd4fd9f2ad8a51ebca86da470e3b9d37430914441a3c9efa4bfc5094c319"
+    }
+  }
+}
